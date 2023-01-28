@@ -1,0 +1,17 @@
+../Drivers/CMSIS/Include/core_cm4.h:1676:26:__NVIC_GetPriorityGrouping	4	static
+../Drivers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+../Drivers/CMSIS/Include/core_cm4.h:1816:22:__NVIC_SetPriority	16	static
+../Drivers/CMSIS/Include/core_cm4.h:1863:26:NVIC_EncodePriority	40	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h:1956:22:LL_ADC_SetCommonPathInternalCh	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h:2490:22:LL_ADC_REG_SetSequencerRanks	40	static,ignoring_inline_asm
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h:2722:22:LL_ADC_REG_SetFlagEndOfConversion	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h:3276:22:LL_ADC_SetChannelSamplingTime	56	static,ignoring_inline_asm
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h:3867:22:LL_ADC_Enable	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h:3918:22:LL_ADC_REG_StartConversionSWStart	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h:4572:22:LL_ADC_EnableIT_EOCS	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_bus.h:1704:22:LL_APB2_GRP1_EnableClock	24	static
+../Core/Src/adc.c:28:6:MX_ADC1_Init	48	static
+../Core/Src/adc.c:83:6:ADC_Start_Conversion	8	static
+../Core/Src/adc.c:99:24:__ADC_Convert_to_Voltage	16	static
+../Core/Src/adc.c:104:6:ADC_Process_Data	8	static,ignoring_inline_asm
+../Core/Src/adc.c:116:6:ADC_Switch_Temperature_Channel	8	static
